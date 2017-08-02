@@ -2,11 +2,13 @@
 Real-Time Rail Predictions
 
 Web application is designed to process the request about the next train arrival information from a particular station.
-It also has the feature to detect the geo location if permission is granted by the user.
+It also has the feature to detect the geo location if permission is granted by the user.Implementation is just for 
+ one service mentioned above rest all services can be used in the same manner.
 
 Public API used for fetching real time train data :Washington Metropolitan Area Transit Authority API 
 Ref : https://www.wmata.com/
-Same API can used for getting real time data of bus services as well details about stops/stations etc.
+
+Same API can used for getting real time data of bus services as well as details about stops/stations, route direction  etc.
 
 #3rd party libraries
   log4j.jar :  For logging purpose on console as well as separate file
