@@ -19,7 +19,9 @@ Same API can used for getting real time data of bus services as well as details 
 Framework used is Model View Controller(MVC).Welcome page is index.jsp and on entering the url user is 
   prompted to give permission to share his location details which can be further used for advanced features of the API
   like route display using google maps.List of next train arrival information is displayed via ajax call using jquery. 
+  
 PTController class will be processing the request and forwarding the request to necessary action class and sending the 
    response back to the server.
+   
 PublicTransportWS.java class is used as web service class for processing the request.
 
