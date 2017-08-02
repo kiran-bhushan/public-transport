@@ -1,0 +1,89 @@
+.divtable {
+	background: #ffffff;
+	clear: both;
+	font-size: 11px;
+}
+
+.divtable div.divHd {
+	clear: both;
+	background: #CCCCCC;
+	font-weight: bold;
+	padding: 6px;
+}
+
+.divtable div.divrow {
+	clear: both;
+	color: #000000;
+	padding: 10px
+}
+
+.divtable div.divrow .divA {
+	float: left;
+	width: 150px;
+	padding: 5px 0
+}
+
+.divtable div.divrow .divAA {
+	float: left;
+	width: 180px;
+	padding: 5px 0
+}
+
+.divtable div.divrow .divB {
+	float: left;
+	width: 300px;
+}
+
+.divtable div.divrow .divB select,input,textarea {
+	width: 200px;
+}
+
+.divtable div.divrow .divBB textarea {
+	width: 450px;
+}
+
+.divtable .borderGrey {
+	clear: both;
+	border-bottom: 1px solid #CCCCCC;
+	height: 10px
+}
+
+thead tr {
+	background-color: ActiveCaption;
+	color: CaptionText;
+}
+
+th,td {
+	vertical-align: top;
+	font-family: "Tahoma", Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	padding: 3px;
+}
+
+table,td {
+	border: 1px solid silver;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+thead .col0 {
+	width: 106px;
+}
+
+.col0 {
+	text-align: right;
+}
+
+thead .col1 {
+	width: 104px;
+}
+
+thead .col2 {
+	width: 95px;
+}
+
+.col2 {
+	text-align: right;
+}
