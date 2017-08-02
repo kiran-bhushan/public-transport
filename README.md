@@ -27,4 +27,3 @@ PTController class will be processing the request and forwarding the request to 
 PublicTransportWS.java class is used as web service class for processing the request.
 
 
-#screenshot.jpg is the screen shot of index.jsp just for having a feel of api implementation visually. 
